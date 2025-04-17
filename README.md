@@ -1,4 +1,4 @@
-# Ziri — Personal Portfolio Website
+# Ziri — A Mentorship Website for Freelancers
 
 **Live Demo:** [ziri-seven.vercel.app](https://ziri-seven.vercel.app/)
 
@@ -9,7 +9,6 @@ Ziri is a soft, elegant personal portfolio website designed to showcase projects
 ## ✨ Features
 
 - 🌼 Clean, minimalist design
-- 📱 Fully responsive and mobile-friendly
 - 🎨 Subtle animations for smooth transitions
 - 💬 Dedicated sections: About, Projects, and Contact
 - 🚀 Hosted with Vercel for instant and easy deployment
@@ -29,8 +28,6 @@ Ziri is a soft, elegant personal portfolio website designed to showcase projects
 
 > Visit the live version: [https://ziri-seven.vercel.app](https://ziri-seven.vercel.app)
 
-_Include a screenshot below if you want:_  
-`![Portfolio Preview](./assets/images/screenshot.png)`
 
 ---
 
